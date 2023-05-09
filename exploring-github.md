@@ -1,13 +1,14 @@
 # Intro to GitHub
-
-## Smaller Header
-
-### Even smaller Header
-
 GitHub is really intersting and confusing at the same time.
 
+### Git Commands
+git status ===> It shows the status of the git files on local.
+git Add ===> Adds the file to a stage process.
+git commit -m "message" ===> it commits the files with a message to the local final stage.
+git push origin main ===> it sends the the files the commit stage to the GitHub Repository.
 ls -al ~/.ssh ===> to find the hidden SSH Keys in the local Computer
 
+### Terminal Commands
 ls -a ===> to find hidden files in the local Computer
 
 ls ===> list files inside the directory
